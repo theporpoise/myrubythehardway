@@ -2,7 +2,11 @@
 
 I was working through Ruby on Rails tutorial and decided I really wanted to know more Ruby (and got tired of learning about 800 different plugins for rails and wanted to actually code something)
 
-#### Below is some example markdown for my own edification
+#### Below is some more example markdown for my own edification
+
+[link text here](link.address.here)
+Ex. [Markdown](http://en.wikipedia.com/wiki/Markdown)
+
 
 This is a paragraph. It has two sentences.
 
